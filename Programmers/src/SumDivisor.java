@@ -16,4 +16,5 @@ class SumDivisor {
 		int num = sc.nextInt();
 		System.out.println(solution(num));
 	}
+    
 }
